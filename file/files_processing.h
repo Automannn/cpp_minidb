@@ -14,7 +14,7 @@
 
 using namespace std;
 
-class Files_processing {
+class FilesProcessing {
 public:
     static void changePath(string path_name = "");
 
@@ -36,7 +36,7 @@ public:
 
     static void readTableRecord(int keywordnum,int recordnum,vector<vector<string>>& table,vector<int>& poslist);
 
-    static void ReadTableIndexes();
+    static void readTableIndexes();
 };
 
 

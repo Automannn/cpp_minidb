@@ -10,14 +10,14 @@
 
 using namespace std;
 
-class Table {
-public:
-    int mkeyWordNum;
-    int mRecordNm;
-    vector<vector<string>> mTable;
-    vector<string> mDataType;
-    vector<bool> mPosList;
-};
+//class Table {
+//public:
+//    int mkeyWordNum;
+//    int mRecordNm;
+//    vector<vector<string>> mTable;
+//    vector<string> mDataType;
+//    vector<bool> mPosList;
+//};
 
 
 #endif //CPP_MINIDB_DATA_STRUCTURE_H
